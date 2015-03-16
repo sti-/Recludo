@@ -4,7 +4,8 @@
 var express = require('express'),
     mongoose = require('mongoose');
 
-var uristring = process.env.MONGOLAB_URI || 'mongodb://localhost/test';
+var uristring = process.env.MONGOLAB_URI ||
+    'mongodb://localhost/test';
 
 var app = express();
 

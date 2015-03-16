@@ -1,0 +1,1 @@
+E:\mongodb\mongodb\bin\mongod.exe --dbpath E:\Recludo\data
